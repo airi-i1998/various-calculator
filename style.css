@@ -1,0 +1,46 @@
+body{
+  width: 100%;
+}
+
+header {
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.calculator {
+  border: 1px solid #000;
+  width: 50%;
+  border-radius: 8px;
+  margin: 10px;
+}
+
+.number {
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 150%;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 10px;
+}
+
+.symbol {
+  display: flex;
+  justify-content: center;
+}
+
+.result {
+  padding: 10px;
+}
+
+span {
+  text-align: center;
+}
